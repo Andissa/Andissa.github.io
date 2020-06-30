@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to top left, powderblue, pink);
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #ececec;
+     padding: 10px;
+}
+main {
+    background-image: url(1.jpg);
+    background-repeat: repeat;
+    background-size: 500px auto;
+    padding: 0px 50px 50px 50px;
+}
+h1 {
+    color: red;
+    font-size: 3em;
+    text-shadow: #0f0052 0 0 15px;
+}
+header {
+    text-align: center;
+}
+b {
+    font-size: 22px;
+    color: green;
+}
+table {
+     background-color: #fefefe;
+}
+ul {
+    width: 180px;
+}
+h2 {
+    font-size: 2em;
+}
